@@ -1,0 +1,5 @@
+D 'lmabpxt': Panel Data Autocorrelation Box-Pierce Test Use lmabpxt With STATA 19
+D
+F lmabpxt.ado
+F lmabpxt.dlg
+F lmabpxt.sthlp
