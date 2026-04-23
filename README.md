@@ -1,6 +1,8 @@
 # lmabpxt
 Panel Data Autocorrelation Box-Pierce Test Use lmabpxt With STATA 19
 
+https://www.youtube.com/watch?v=v_iXO3BODgc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
